@@ -17,9 +17,9 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    String[] listaNomes = {"Felpudo","Fofura","Lesmo","Bugado","Uruca","iOS","Android","Realidade Aumentada"};
-    int[] listaIcones = {R.drawable.felpudo,R.drawable.fofura,R.drawable.lesmo,R.drawable.bugado,R.drawable.uruca,R.drawable.ios,R.drawable.realidade_aumentada};
-    String[] listaDescricoes = {"Felpudo","Fofura","Lesmo","Bugado","Uruca","iOS","Android","Realidade Aumentada"};
+    String[] listaNomes = {"Felpudo","Fofura","Lesmo","Bugado","Uruca"};
+    int[] listaIcones = {R.drawable.felpudo,R.drawable.fofura,R.drawable.lesmo,R.drawable.bugado,R.drawable.uruca};
+    String[] listaDescricoes = {"Felpudo","Fofura","Lesmo","Bugado","Uruca"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,13 +36,15 @@ public class MainActivity extends AppCompatActivity {
 //            }
 //        });
         ListView minhaLista = findViewById(R.id.minhaLista);
-        MeuAdaptador meuAdaptador;;
+        MeuAdaptador meuAdaptador;
         meuAdaptador = new MeuAdaptador(getApplicationContext(), R.layout.minha_celula);
 
         int i = 0 ;
         for(String nome:listaNomes){
             DadosPersonagem dadosPersonagem;
-            dadosPersonagem = new DadosPersonagem(listaIcones[i],listaNomes[i],listaDescricoes[i]);
+            dadosPersonagem = new DadosPersonagem(listaIcones[i],nome,listaDescricoes[i]);
+            meuAdaptador.add(dadosPersonagem);
+            i++;
         }
 
         minhaLista.setAdapter(meuAdaptador);

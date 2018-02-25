@@ -5,38 +5,37 @@
     build-mode="COLD"
     density="hdpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1519586454055"
+    timestamp="1519591439630"
     token="-453250990122520155"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="184" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="16" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
-    <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
     <artifact
         location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/outputs/apk/debug/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1519583103513"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="1519590987248"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
@@ -45,49 +44,22 @@
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1519586059135"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -99,11 +71,16 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1519586454055"
+        timestamp="1519591236875"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1519591439630"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/outputs/apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />

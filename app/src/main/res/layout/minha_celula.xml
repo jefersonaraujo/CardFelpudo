@@ -18,15 +18,19 @@
         android:id="@+id/meuTitulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
         android:text="TextView"
-        tools:layout_editor_absoluteX="203dp"
-        tools:layout_editor_absoluteY="37dp" />
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintStart_toEndOf="@+id/meuIcone"
+        tools:layout_editor_absoluteY="16dp" />
 
     <TextView
         android:id="@+id/descricao"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
         android:text="TextView"
-        tools:layout_editor_absoluteX="203dp"
-        tools:layout_editor_absoluteY="78dp" />
+        android:textColor="@android:color/background_dark"
+        app:layout_constraintStart_toEndOf="@+id/meuIcone"
+        tools:layout_editor_absoluteY="49dp" />
 </android.support.constraint.ConstraintLayout>
