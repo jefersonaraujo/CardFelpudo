@@ -8,29 +8,30 @@
 
     <ImageView
         android:id="@+id/meuIcone"
-        android:layout_width="171dp"
-        android:layout_height="137dp"
+        android:layout_width="122dp"
+        android:layout_height="104dp"
         app:srcCompat="@drawable/android"
-        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteX="6dp"
         tools:layout_editor_absoluteY="16dp" />
 
     <TextView
-        android:id="@+id/meuTitulo"
+        android:id="@+id/titulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
+        android:layout_marginBottom="36dp"
+        android:layout_marginStart="36dp"
         android:text="TextView"
         android:textColor="@android:color/background_dark"
-        app:layout_constraintStart_toEndOf="@+id/meuIcone"
-        tools:layout_editor_absoluteY="16dp" />
+        app:layout_constraintBottom_toTopOf="@+id/descricao"
+        app:layout_constraintStart_toEndOf="@+id/meuIcone" />
 
     <TextView
         android:id="@+id/descricao"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
+        android:layout_marginStart="56dp"
         android:text="TextView"
         android:textColor="@android:color/background_dark"
         app:layout_constraintStart_toEndOf="@+id/meuIcone"
-        tools:layout_editor_absoluteY="49dp" />
+        tools:layout_editor_absoluteY="72dp" />
 </android.support.constraint.ConstraintLayout>

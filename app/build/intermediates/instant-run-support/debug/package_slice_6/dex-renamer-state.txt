@@ -1,4 +1,4 @@
-#Sun Feb 25 17:36:29 BRT 2018
+#Sun Feb 25 18:01:55 BRT 2018
 base.0=/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/transforms/dexMerger/debug/6
 path.0=classes.dex
 renamed.0=classes.dex

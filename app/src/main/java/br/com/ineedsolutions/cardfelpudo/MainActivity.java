@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     String[] listaNomes = {"Felpudo","Fofura","Lesmo","Bugado","Uruca"};
     int[] listaIcones = {R.drawable.felpudo,R.drawable.fofura,R.drawable.lesmo,R.drawable.bugado,R.drawable.uruca};
-    String[] listaDescricoes = {"Felpudo","Fofura","Lesmo","Bugado","Uruca"};
+    String[] listaDescricoes = {"Esse Felpudo","Esse Fofura","Esse Lesmo","Esse Bugado","Esse Uruca"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         int i = 0 ;
         for(String nome:listaNomes){
             DadosPersonagem dadosPersonagem;
-            dadosPersonagem = new DadosPersonagem(listaIcones[i],nome,listaDescricoes[i]);
+            dadosPersonagem = new DadosPersonagem(listaIcones[i],listaNomes[i],listaDescricoes[i]);
             meuAdaptador.add(dadosPersonagem);
             i++;
         }
@@ -61,9 +61,9 @@ class DadosPersonagem{
     private  String titulo;
     private String descricao;
 
-    public DadosPersonagem(int icone, String nome, String descricao) {
+    public DadosPersonagem(int icone, String titulo, String descricao) {
         this.icone = icone;
-        this.titulo = nome;
+        this.titulo = titulo;
         this.descricao = descricao;
     }
 
@@ -101,7 +101,7 @@ class  MeuAdaptador extends ArrayAdapter{
             minhaView = inflater.inflate(R.layout.minha_celula,parent,false);
             viewPersonagem = new ViewPersonagem();
             viewPersonagem.icone = (ImageView) minhaView.findViewById(R.id.meuIcone);
-            viewPersonagem.titulo = (TextView) minhaView.findViewById(R.id.meuTitulo);
+            viewPersonagem.titulo = (TextView) minhaView.findViewById(R.id.titulo);
             viewPersonagem.descricao = (TextView) minhaView.findViewById(R.id.descricao);
 
             minhaView.setTag(viewPersonagem);
