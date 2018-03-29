@@ -1,10 +1,42 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/267a11fe76501a1202eceffd927b1a3c/res/values-v14/values-v14.xml",
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",

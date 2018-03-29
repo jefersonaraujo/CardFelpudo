@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.com.ineedsolutions.cardfelpudo.test" >
+    package="br.com.ineedsolutions.htools.test" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -10,8 +10,8 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for br.com.ineedsolutions.cardfelpudo"
-        android:targetPackage="br.com.ineedsolutions.cardfelpudo" />
+        android:label="Tests for br.com.ineedsolutions.htools"
+        android:targetPackage="br.com.ineedsolutions.htools" />
 
     <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />

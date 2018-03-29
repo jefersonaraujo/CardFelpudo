@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="x86"
     api-level="22"
     build-mode="FULL"
     density="hdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1519592537376"
-    token="-453250990122520155"
+    timestamp="1519949251541"
+    token="5804057546875354484"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
@@ -24,81 +24,147 @@
         duration="0" />
 
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/outputs/apk/debug/app-debug.apk"
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/outputs/apk/debug/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1519592537376"
+        timestamp="1519949251541"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/outputs/apk/debug/app-debug.apk"
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/outputs/apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

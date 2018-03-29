@@ -1,10 +1,40 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/267a11fe76501a1202eceffd927b1a3c/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

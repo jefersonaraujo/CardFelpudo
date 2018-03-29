@@ -1,10 +1,40 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "/media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/267a11fe76501a1202eceffd927b1a3c/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

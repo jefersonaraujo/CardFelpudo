@@ -1,10 +1,42 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jeferson/AndroidStudioProjects/CardFelpudo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/media/jeferson/arquivos/Desenvolvimento/htoos/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/267a11fe76501a1202eceffd927b1a3c/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/ARQUIVO/DESENVOLVIMENTO/htools/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
