@@ -69,7 +69,7 @@ public class CadastroUserActivity extends AppCompatActivity {
                                throw  task.getException();
 
                            }catch (FirebaseAuthWeakPasswordException e){
-                               editSenha.setError("Senha Franca");
+                               editSenha.setError("Senha Fraca");
                                editSenha.requestFocus();
                            }catch (FirebaseAuthInvalidCredentialsException e){
                                editEmail.setError("Email invalido !");
