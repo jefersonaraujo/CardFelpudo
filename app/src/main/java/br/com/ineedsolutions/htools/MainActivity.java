@@ -9,6 +9,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -29,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<String> seguindo;
 
 
+
     //private TextView mTextMessage;
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
@@ -41,12 +43,14 @@ public class MainActivity extends AppCompatActivity {
                     Intent i = new  Intent(MainActivity.this, CadastroUserActivity.class);
 //                    mTextMessage.setText(R.string.title_home);
                       return true;
-//                case R.id.navigation_dashboard:
-//                    mTextMessage.setText(R.string.title_dashboard);
-//                    return true;
-//                case R.id.navigation_notifications:
-//                    mTextMessage.setText(R.string.title_notifications);
-//                    return true;
+                case R.id.navigation_dashboard:
+
+                    Intent j = new Intent(MainActivity.this, CadastroUserActivity.class);
+                    startActivity(j);
+                    return true;
+                case R.id.navigation_notifications:
+                    Intent l = new Intent(MainActivity.this, LoginActivity.class);
+                    startActivity(l);
 
             }
             return false;

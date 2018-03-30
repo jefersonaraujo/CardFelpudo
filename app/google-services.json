@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "919478426791",
+    "firebase_url": "https://htools-smart.firebaseio.com",
+    "project_id": "htools-smart",
+    "storage_bucket": "htools-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919478426791:android:08d2c6e375816cd9",
+        "android_client_info": {
+          "package_name": "br.com.ineedsolutions.htools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919478426791-0okbtm0cd9l5jrhjib9gqo88fui9279k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ineedsolutions.htools",
+            "certificate_hash": "cfd9b1e7a728667f180476c1779ca69bf2332662"
+          }
+        },
+        {
+          "client_id": "919478426791-5h9a9pb9vp70h8b0sqlvh68vrume3e51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ineedsolutions.htools",
+            "certificate_hash": "c70b8ef3865e82104c8463b552a96c7327079d4b"
+          }
+        },
+        {
+          "client_id": "919478426791-65ie7ufbf2cpe4dolqffvb0dhlorj4u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjD1U3RWBw3y7Az2h3eTLGNWtZ26XilAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919478426791-65ie7ufbf2cpe4dolqffvb0dhlorj4u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,18 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
-MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:2:1-6:12
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jeferson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15aafeea19d2adba49fe3c8cbc751f15/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/70d549c4f279c86dc333a70b22bbf141/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/7f2a3a83cb225abf2fc0848ed699cbd9/AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/e73d8c081ce41548779547e58e9b3b1c/AndroidManifest.xml:17:1-54:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24bcb18541ecd3d88259e04ec81f9b83/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:transition:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/0f8b66540e858c534df7c7f5faa820fc/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/4db6f01448e2ca3703f0187ee9445eb5/AndroidManifest.xml:2:1-8:12
@@ -39,41 +39,41 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/jef
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/93bf261da92ab015a94f63b9fe4850e2/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6981c59befac6bceddd140ab056d3c5a/AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/586b009e8946e9dae29189ed5229d8b6/AndroidManifest.xml:2:1-6:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-25:12
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:5:5-23:19
-MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:5:5-20
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:5:5-26:19
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:5:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jeferson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15aafeea19d2adba49fe3c8cbc751f15/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jeferson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15aafeea19d2adba49fe3c8cbc751f15/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/7f2a3a83cb225abf2fc0848ed699cbd9/AndroidManifest.xml:22:5-30:19
 MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/7f2a3a83cb225abf2fc0848ed699cbd9/AndroidManifest.xml:22:5-30:19
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/e73d8c081ce41548779547e58e9b3b1c/AndroidManifest.xml:27:5-52:19
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/e73d8c081ce41548779547e58e9b3b1c/AndroidManifest.xml:27:5-52:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24bcb18541ecd3d88259e04ec81f9b83/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24bcb18541ecd3d88259e04ec81f9b83/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/0f8b66540e858c534df7c7f5faa820fc/AndroidManifest.xml:22:5-26:19
@@ -136,12 +136,12 @@ MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/jeferson/.gr
 		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:11:9-40
-activity#br.com.ineedsolutions.htools.LoginActivity
+activity#br.com.ineedsolutions.htools.HomeActivity
 ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:label
 		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:13:13-42
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:13:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
@@ -152,24 +152,36 @@ category#android.intent.category.LAUNCHER
 ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:18:27-74
-activity#br.com.ineedsolutions.htools.MainActivity
-ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:21:9-50
+activity#br.com.ineedsolutions.htools.LoginActivity
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:21:9-51
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:21:19-47
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:21:19-48
 activity#br.com.ineedsolutions.htools.CadastroUserActivity
 ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:22:9-67
 	android:name
 		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:22:19-55
+activity#br.com.ineedsolutions.htools.DashboardActivity
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:24:9-55
+	android:name
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:24:19-52
+activity#br.com.ineedsolutions.htools.NotificationsActivity
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:25:19-56
 uses-sdk
 INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
-MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/82ca5c9259042e1e30ce9d2e930a0f77/AndroidManifest.xml:4:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jeferson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15aafeea19d2adba49fe3c8cbc751f15/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jeferson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15aafeea19d2adba49fe3c8cbc751f15/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-database:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/70d549c4f279c86dc333a70b22bbf141/AndroidManifest.xml:6:5-44
@@ -178,10 +190,6 @@ MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/jeferson/.gradle/ca
 MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/7f2a3a83cb225abf2fc0848ed699cbd9/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/e73d8c081ce41548779547e58e9b3b1c/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/e73d8c081ce41548779547e58e9b3b1c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8dfba0001579d4449f6ef9b3807fdf3f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24bcb18541ecd3d88259e04ec81f9b83/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24bcb18541ecd3d88259e04ec81f9b83/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/0f8b66540e858c534df7c7f5faa820fc/AndroidManifest.xml:20:5-44
