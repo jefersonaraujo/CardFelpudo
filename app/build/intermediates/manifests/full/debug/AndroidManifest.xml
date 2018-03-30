@@ -30,7 +30,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="br.com.ineedsolutions.htools.HomeActivity"
+            android:name="br.com.ineedsolutions.htools.LoginActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -38,10 +38,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="br.com.ineedsolutions.htools.LoginActivity" />
+        <activity android:name="br.com.ineedsolutions.htools.HomeActivity" />
         <activity android:name="br.com.ineedsolutions.htools.CadastroUserActivity" />
         <activity android:name="br.com.ineedsolutions.htools.DashboardActivity" />
         <activity android:name="br.com.ineedsolutions.htools.NotificationsActivity" />
+        <activity android:name="br.com.ineedsolutions.htools.UsersActivity" />
 
         <meta-data
             android:name="android.support.VERSION"

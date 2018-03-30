@@ -7,6 +7,7 @@ import android.support.annotation.NonNull;
 import android.support.annotation.RequiresApi;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.AppCompatActivity;
+import android.view.Menu;
 import android.view.MenuItem;
 
 public abstract class BaseActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
@@ -46,6 +47,8 @@ public abstract class BaseActivity extends AppCompatActivity implements BottomNa
                     startActivity(new Intent(this, DashboardActivity.class));
             } else if (itemId == R.id.navigation_notifications) {
                     startActivity(new Intent(this, NotificationsActivity.class));
+            } else if (itemId == R.id.navigation_users){
+                    startActivity(new Intent(this,UsersActivity.class));
             }
             finish();
         }, 300);
@@ -65,5 +68,22 @@ public abstract class BaseActivity extends AppCompatActivity implements BottomNa
     abstract int getContentViewId();
 
     abstract int getNavigationMenuItemId();
+
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_main,menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id = item.getItemId();
+        if(id == R.id.sair){
+            //mAuth.signOut();
+            finish();
+        }
+        return  true;
+    }
 
 }
