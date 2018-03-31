@@ -27,6 +27,9 @@ public class CadastroUserActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private EditText editEmail;
     private EditText editSenha;
+    private EditText editNome;
+    private EditText editData;
+    private EditText editFone;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,11 +39,17 @@ public class CadastroUserActivity extends AppCompatActivity {
         mAuth = FirebaseAuth.getInstance();
         editEmail = findViewById(R.id.cadEmail);
         editSenha = findViewById(R.id.cadSenha);
-        ed
+        editNome = findViewById(R.id.cadNome);
+        editData = findViewById(R.id.cadData);
+        editFone = findViewById(R.id.cadFone);
+
     }
     public  void salvar(View view){
         final String usuario = editEmail.getText().toString().trim();
         String senha = editSenha.getText().toString().trim();
+        String nome = editNome.getText().toString().trim();
+        String fone = editFone.getText().toString().trim();
+        String data = editData.getText().toString().trim();
         if(usuario.equals("")){
             editEmail.setError("Preencha este Campo !");
             editEmail.requestFocus();
@@ -63,6 +72,10 @@ public class CadastroUserActivity extends AppCompatActivity {
                            Map<String, Object> userInfos = new HashMap<>();
                            userInfos.put("usuario",usuario);
                            userInfos.put("email",usuario);
+                           userInfos.put("nome",nome);
+                           userInfos.put("fone",fone);
+                           userInfos.put("data",data);
+
                            userRef.setValue(userInfos);
                            finish();
 
