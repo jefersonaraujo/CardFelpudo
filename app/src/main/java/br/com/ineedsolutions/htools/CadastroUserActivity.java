@@ -23,6 +23,7 @@ import java.util.Map;
 
 public class CadastroUserActivity extends AppCompatActivity {
 
+
     private FirebaseAuth mAuth;
     private EditText editEmail;
     private EditText editSenha;
@@ -35,6 +36,7 @@ public class CadastroUserActivity extends AppCompatActivity {
         mAuth = FirebaseAuth.getInstance();
         editEmail = findViewById(R.id.cadEmail);
         editSenha = findViewById(R.id.cadSenha);
+        ed
     }
     public  void salvar(View view){
         final String usuario = editEmail.getText().toString().trim();
@@ -84,4 +86,5 @@ public class CadastroUserActivity extends AppCompatActivity {
                     }
                 });
     }
+
 }

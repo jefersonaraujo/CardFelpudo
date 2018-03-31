@@ -25,7 +25,7 @@ public class UsersActivity extends BaseActivity {
 
     @Override
     int getContentViewId() {
-        return R.layout.activity_user;
+        return R.layout.activity_cadastro_user_activity;
     }
 
     @Override
@@ -40,7 +40,7 @@ public class UsersActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cadastro_user_activity);
+        setContentView(R.layout.activity_user);
 
         mAuth = FirebaseAuth.getInstance();
         editEmail = findViewById(R.id.cadEmail);
