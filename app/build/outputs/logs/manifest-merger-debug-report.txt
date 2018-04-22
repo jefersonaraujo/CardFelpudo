@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/a9de63cb03dfe828ad3a63dc1241ffcb/AndroidManifest.xml:17:1-28:12
@@ -39,25 +39,25 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/jef
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/93bf261da92ab015a94f63b9fe4850e2/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6981c59befac6bceddd140ab056d3c5a/AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/586b009e8946e9dae29189ed5229d8b6/AndroidManifest.xml:2:1-6:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:3:5-43
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:5:5-27:19
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:5:5-27:19
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:25:5-29:19
@@ -125,57 +125,57 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jeferson/.gradle/caches
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/586b009e8946e9dae29189ed5229d8b6/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/586b009e8946e9dae29189ed5229d8b6/AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:11:9-40
 activity#br.com.ineedsolutions.htools.LoginActivity
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:label
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:14:13-45
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:13:13-42
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:13:13-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:18:27-74
 activity#br.com.ineedsolutions.htools.HomeActivity
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:21:9-50
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:21:9-50
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:21:19-47
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:21:19-47
 activity#br.com.ineedsolutions.htools.CadastroUserActivity
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:22:9-67
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:22:9-67
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:22:19-55
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:22:19-55
 activity#br.com.ineedsolutions.htools.DashboardActivity
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:24:9-55
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:24:9-55
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:24:19-52
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:24:19-52
 activity#br.com.ineedsolutions.htools.NotificationsActivity
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:25:9-59
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:25:9-59
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:25:19-56
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:25:19-56
 activity#br.com.ineedsolutions.htools.UsersActivity
-ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:26:9-51
+ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:26:9-51
 	android:name
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml:26:19-48
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml:26:19-48
 uses-sdk
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:21:5-23:78
@@ -246,18 +246,18 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jeferson/.gradle/caches
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6981c59befac6bceddd140ab056d3c5a/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/586b009e8946e9dae29189ed5229d8b6/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/586b009e8946e9dae29189ed5229d8b6/AndroidManifest.xml:4:5-43
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-		ADDED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
-		INJECTED from /media/jeferson/arquivos/Desenvolvimento/htools/CardFelpudo/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+		ADDED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jeferson/arquivos/Desenvolvimento/CardFelpudo/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/937878cc0fc7cb43d91bf31e82123a68/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jeferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/779f4d953c8709008e26687f94461bd5/AndroidManifest.xml:26:9-28:38
