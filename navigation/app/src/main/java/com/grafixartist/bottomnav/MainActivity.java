@@ -9,6 +9,7 @@ import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatDelegate;
 import android.support.v7.widget.Toolbar;
+import android.widget.Toast;
 
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigation;
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigationItem;
@@ -48,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         setupBottomNavBehaviors();
         setupBottomNavStyle();
 
-        createFakeNotification();
+       // createFakeNotification();
 
         addBottomNavigationItems();
         bottomNavigation.setCurrentItem(0);
@@ -61,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (!wasSelected)
                     viewPager.setCurrentItem(position);
+                    //Toast.makeText(getApplicationContext(), "Exemplo Toast", Toast.LENGTH_SHORT).show();
+
 
                 // remove notification badge
                 int lastItemPos = bottomNavigation.getItemsCount() - 1;
@@ -80,8 +83,8 @@ public class MainActivity extends AppCompatActivity {
 
         pagerAdapter.addFragments(createFragment(R.color.bottomtab_0));
         pagerAdapter.addFragments(createFragment(R.color.bottomtab_1));
-        pagerAdapter.addFragments(createFragment(R.color.bottomtab_2));
-        pagerAdapter.addFragments(createFragment(R.color.bottomtab_3));
+//        pagerAdapter.addFragments(createFragment(R.color.bottomtab_2));
+//        pagerAdapter.addFragments(createFragment(R.color.bottomtab_3));
 
         viewPager.setAdapter(pagerAdapter);
     }
