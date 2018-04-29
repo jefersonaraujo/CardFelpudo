@@ -9,6 +9,7 @@ import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatDelegate;
 import android.support.v7.widget.Toolbar;
+import android.widget.Toast;
 
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigation;
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigationItem;
@@ -37,27 +38,18 @@ public class MainActivity extends AppCompatActivity {
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         //noinspection ConstantConditions
-        getSupportActionBar().setTitle("Bottom Navigation");
+        getSupportActionBar().setTitle("Future Htools");
 
 
         setupViewPager();
 
 
-//        final DummyFragment fragment = new DummyFragment();
-//        Bundle bundle = new Bundle();
-//        bundle.putInt("color", ContextCompat.getColor(this, colors[0]));
-//        fragment.setArguments(bundle);
-
-//        getSupportFragmentManager()
-//                .beginTransaction()
-//                .add(R.id.frame, fragment, DummyFragment.TAG)
-//                .commit();
 
         bottomNavigation = (AHBottomNavigation) findViewById(R.id.bottom_navigation);
         setupBottomNavBehaviors();
         setupBottomNavStyle();
 
-        createFakeNotification();
+       // createFakeNotification();
 
         addBottomNavigationItems();
         bottomNavigation.setCurrentItem(0);
@@ -70,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
 
                 if (!wasSelected)
                     viewPager.setCurrentItem(position);
+                    //Toast.makeText(getApplicationContext(), "Exemplo Toast", Toast.LENGTH_SHORT).show();
+
 
                 // remove notification badge
                 int lastItemPos = bottomNavigation.getItemsCount() - 1;
@@ -89,7 +83,8 @@ public class MainActivity extends AppCompatActivity {
 
         pagerAdapter.addFragments(createFragment(R.color.bottomtab_0));
         pagerAdapter.addFragments(createFragment(R.color.bottomtab_1));
-        pagerAdapter.addFragments(createFragment(R.color.bottomtab_2));
+//        pagerAdapter.addFragments(createFragment(R.color.bottomtab_2));
+//        pagerAdapter.addFragments(createFragment(R.color.bottomtab_3));
 
         viewPager.setAdapter(pagerAdapter);
     }
@@ -128,15 +123,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void setupBottomNavBehaviors() {
-//        bottomNavigation.setBehaviorTranslationEnabled(false);
-
-        /*
-        Before enabling this. Change MainActivity theme to MyTheme.TranslucentNavigation in
-        AndroidManifest.
-
-        Warning: Toolbar Clipping might occur. Solve this by wrapping it in a LinearLayout with a top
-        View of 24dp (status bar size) height.
-         */
         bottomNavigation.setTranslucentNavigationEnabled(false);
     }
 
@@ -144,12 +130,7 @@ public class MainActivity extends AppCompatActivity {
      * Adds styling properties to {@link AHBottomNavigation}
      */
     private void setupBottomNavStyle() {
-        /*
-        Set Bottom Navigation colors. Accent color for active item,
-        Inactive color when its view is disabled.
 
-        Will not be visible if setColored(true) and default current item is set.
-         */
         bottomNavigation.setDefaultBackgroundColor(Color.WHITE);
         bottomNavigation.setAccentColor(fetchColor(R.color.bottomtab_0));
         bottomNavigation.setInactiveColor(fetchColor(R.color.bottomtab_item_resting));
@@ -174,13 +155,21 @@ public class MainActivity extends AppCompatActivity {
         AHBottomNavigationItem item1 = new AHBottomNavigationItem(R.string.tab_1, R.drawable.ic_map_24dp, colors[0]);
         AHBottomNavigationItem item2 = new AHBottomNavigationItem(R.string.tab_2, R.drawable.ic_local_restaurant_24dp, colors[1]);
         AHBottomNavigationItem item3 = new AHBottomNavigationItem(R.string.tab_3, R.drawable.ic_store_mall_directory_24dp, colors[2]);
+<<<<<<< HEAD
         AHBottomNavigationItem item4 = new AHBottomNavigationItem(R.string.tab_3, R.drawable.ic_store_mall_directory_24dp, colors[0]);
 
+=======
+        AHBottomNavigationItem item4 = new AHBottomNavigationItem(R.string.tab_4, R.drawable.ic_store_mall_directory_24dp, colors[1]);
+>>>>>>> 7af7dd8c857b3b641a9a39dcd7aa51a5f1c9b7e7
 
         bottomNavigation.addItem(item1);
         bottomNavigation.addItem(item2);
         bottomNavigation.addItem(item3);
         bottomNavigation.addItem(item4);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7af7dd8c857b3b641a9a39dcd7aa51a5f1c9b7e7
     }
 
 

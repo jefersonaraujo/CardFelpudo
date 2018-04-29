@@ -23,7 +23,7 @@ public class SimpleAdapter extends RecyclerView.Adapter<SimpleAdapter.SimpleItem
 
     public SimpleAdapter(Context context) {
         this.context = context;
-        prepareDesserts();
+        //prepareDesserts();
     }
 
     private void prepareDesserts() {
